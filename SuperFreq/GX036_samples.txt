@@ -1,0 +1,4 @@
+BAM	VCF	NAME	INDIVIDUAL	NORMAL	TIMEPOINT
+/home/user/BAM/GX036-g.mem.final.nochr.bam	/home/user/GX036_VCF/GX036-g.vcf	GX036-g	GX036	YES	Normal
+/home/user/BAM/GX036-TF.mem.final.nochr.bam	/home/user/GX036_VCF/GX036-TF.vcf	GX036-TF	GX036	NO	Tumour Frozen
+/home/user/BAM/GX036-T2F.mem.final.nochr.bam	/home/user/GX036_VCF/GX036-T2F.vcf	GX036-T2F	GX036	NO	Tumour Frozen
