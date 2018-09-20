@@ -3,10 +3,13 @@
 
 This repository contains scripts to generate the figures listed below for Yan et al. Cell Stem Cell 2018
 
-Mendeley Dataset 13 (http://dx.doi.org/10.17632/rd2sbgm35y.1) - TFvTO
-Figure 5C&D - Combat
-Figure 5B - TOvTFvFib
-Figure 4A and Mendeley Dataset 10 (http://dx.doi.org/10.17632/8v95h5rd6p.1) - SuperFreq
+*Mendeley Dataset 13 (http://dx.doi.org/10.17632/rd2sbgm35y.1) - TFvTO
+
+*Figure 5C&D - Combat
+
+*Figure 5B - TOvTFvFib
+
+*Figure 4A and Mendeley Dataset 10 (http://dx.doi.org/10.17632/8v95h5rd6p.1) - SuperFreq
 
 For Mendeley Dataset 13, Figure 5B,C and D. Execution of the R script will reproduce the core part of each of the respective Figure in the paper.
 
